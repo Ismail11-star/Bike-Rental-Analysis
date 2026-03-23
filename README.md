@@ -1,7 +1,9 @@
 
 🚲 Bike Rental Demand Analysis Dashboard
+
 📌 Project Overview
 This project features an interactive Power BI Dashboard designed to analyze and visualize bike rental trends. By processing raw data from the BikeDataforRental.csv dataset, the dashboard identifies key factors influencing rental demand, such as seasonal changes, weather conditions, and user demographics.
+
 
 This project demonstrates core competencies in Data Visualization, Business Intelligence (BI), and Exploratory Data Analysis (EDA).
 
